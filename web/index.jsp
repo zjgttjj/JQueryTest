@@ -137,7 +137,7 @@
 		<a href="../content/ohoopee3.jpg" rel="example3"
 			title="On the Ohoopee">Grouped Photo 3</a>
 	</p>
-	<h2>自动播放3</h2>
+	<h2>自动播放</h2>
 	<p>
 		<a href="../content/ohoopee1.jpg" rel="example4" title="Me">Grouped
 			Photo 1</a>
